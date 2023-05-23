@@ -31,6 +31,22 @@
       "tipo": "academico",
       "anoInicio": "123",
       "anoFim": "123"
+    },
+    {
+      "id": 10,
+      "titulo": "teste",
+      "descricao": "teste ",
+      "tipo": "profissional",
+      "anoInicio": "2000",
+      "anoFim": "2001"
+    },
+    {
+      "id": 11,
+      "titulo": "teste novo",
+      "descricao": "teste",
+      "tipo": "academico",
+      "anoInicio": "2015",
+      "anoFim": "2016"
     }
   ],
   "portfolio": [
